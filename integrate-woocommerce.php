@@ -9,8 +9,7 @@ Author URI: http://realbigmarketing.com/staff/kyle
 
 /*
 Tutorials and recources:
-When I use snippets from other developers I generally leave a link here back to where I got the code, to give
-them credit for being awesome and also as a reference for myself later. Not required but recommended.
+http://docs.woothemes.com/document/third-party-custom-theme-compatibility/
 */
-
+include_once('themes/themes.php');
 ?>
